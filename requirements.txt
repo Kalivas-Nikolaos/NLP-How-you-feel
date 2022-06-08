@@ -1,0 +1,8 @@
+sys
+requests
+json
+pandas
+textblob 
+TextBlob
+vaderSentiment
+SentimentIntensityAnalyzer
